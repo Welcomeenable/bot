@@ -912,7 +912,7 @@ case 'sc':
 teks = 
 `*Bot Ini Mengguna Sourcecode
 ╭─────────────────────
-├ Sc Ori = https://github.com/Zero-YT7/Base-ZeroYT7
+├ Sc ORI=https://github.com/Welcomeenable/botwa
 ├ Sc Full Fitur = https://youtube.com/ZeroYT7
 ├─────────────────────
 ├ Creator Base = Zero YT7
