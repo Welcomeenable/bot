@@ -439,7 +439,7 @@ timestamp = speed();
 				latensi = speed() - timestamp
                   	teks =
 `┏━➤ *INFO BOT* 
-*┃┃* Creator Bot : Zero YT7
+*┃┃* Creator Bot : FERI BOTZ
 *┃┃* Nama Owner : ${ownername}
 *┃┃* Nama Bot : ${botname}
 *┃┃* Prefix : Multi Prefix
